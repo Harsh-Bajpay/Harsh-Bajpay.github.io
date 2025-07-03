@@ -1,0 +1,202 @@
+{
+  "features": {
+    "about": true,
+    "projects": true,
+    "experience": true,
+    "skills": true,
+    "github_projects": false
+  },
+  "site": {
+    "title": "Harsh Bajpay",
+    "description": "Portfolio of Harsh Bajpay - Data Science & Cloud Enthusiast | AI × Blockchain Explorer",
+    "seo": {
+      "title": "Harsh Bajpay - Data Science & Cloud Enthusiast",
+      "description": "Portfolio of Harsh Bajpay - Graduate Trainee at TCS, Data Science & Cloud Enthusiast, AI × Blockchain Explorer.",
+      "keywords": "Harsh Bajpay, data science, cloud, AI, blockchain, portfolio, TCS",
+      "author": "Harsh Bajpay",
+      "og_image": "",
+      "twitter_card": "summary_large_image",
+      "base_url": ""
+    }
+  },
+  "header": {
+    "greeting": "Harsh Bajpay",
+    "tagline": "Proficient and passionate programmer always try to learn something new with consistency. | Graduate Trainee at TCS | Data Science & Cloud Enthusiast | AI × Blockchain Explorer"
+  },
+  "social_links": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Harsh-Bajpay",
+      "icon": "github"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/harsh-bajpay/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:harshpandat006@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "about": {
+    "paragraphs": [
+      "Proficient and passionate programmer always try to learn something new with consistency.",
+      "🔭 Currently working on improving my data analytics skills and completing my final-year projects in data science.",
+      "🌱 Looking to collaborate on data science and analytics projects, especially those involving machine learning or cloud-based services.",
+      "👯 Looking for help with guidance on optimizing my machine learning models and tips on deploying AI services with Docker containers.",
+      "🤔 Currently learning data analytics and Azure AI services.",
+      "💬 Ask me about data science, cloud computing, and machine learning.",
+      "⚡ Fun fact: When I'm not coding, you'll probably find me sharpening my chess skills!",
+      "I'm currently working as a Graduate Trainee at Tata Consultancy Services (TCS) while pursuing my Master of Computer Applications (MCA) from IGNOU. With a strong foundation in data science, cloud technologies, and smart contract auditing, I enjoy building tech-driven solutions that not only solve problems but also create impact.",
+      "My interest lies at the intersection of AI, Blockchain, and Cloud Computing where I actively explore how these technologies can be integrated to build secure, scalable, and ethical systems. I've had hands-on experience through hackathons (like BNB Chain AI Hackathon), internships, and self-initiated projects that focus on privacy, automation, and data-driven decision-making.",
+      "I'm a Google Cloud Study Jams graduate, and I continue to upgrade my skill set in Python, machine learning, big data, and system design. When I'm not working or studying, you'll find me contributing to open source, participating in ideathons, or learning about the latest in AI ethics and Web3 innovation.",
+      "I'm open to collaborative projects, mentorship, and future opportunities in data science, AI/ML, and cloud-native development. Let's connect and grow together."
+    ]
+  },
+  "projects": {
+    "title": "Highlighted Projects",
+    "items": [
+      {
+        "name": "Meta-Learning for Autonomous Machine Learning Project",
+        "date": "2024",
+        "description": [
+          "Automated machine learning using TPOT for synthetic classification dataset.",
+          "Synthetic data generation, pipeline optimization, model evaluation.",
+          "[View on GitHub](https://github.com/Harsh-Bajpay/Meta-Learning-for-Autonomous-Machine-Learning-Project)"
+        ]
+      },
+      {
+        "name": "Quantum-Enhanced Federated Learning Project",
+        "date": "2024",
+        "description": [
+          "Integration of quantum machine learning (QML) with federated learning for predictive diagnostics in healthcare.",
+          "Simulated decentralized training, quantum SVM integration, privacy and security with differential privacy and SMPC, preprocessing pipeline.",
+          "[View on GitHub](https://github.com/Harsh-Bajpay/Quantum-Enhanced-Federated-Learning-Project)"
+        ]
+      },
+      {
+        "name": "Plant Disease Detection",
+        "date": "2025",
+        "description": [
+          "ML model for detecting and classifying plant diseases from images (92% accuracy).",
+          "Prototype app for farmers to upload images and receive instant diagnosis and treatment suggestions.",
+          "[View on GitHub](https://github.com/Harsh-Bajpay/upgraded-fishstick)"
+        ]
+      },
+      {
+        "name": "Movie Recommendation System",
+        "date": "2024",
+        "description": [
+          "A movie recommendation system using Python.",
+          "[View on GitHub](https://github.com/Harsh-Bajpay/Movie_Recommendation)"
+        ]
+      },
+      {
+        "name": "ML-CaPsule (contributor)",
+        "date": "2024",
+        "description": [
+          "Project for ML/DL beginners and enthusiasts to learn and contribute.",
+          "[View on GitHub](https://github.com/Harsh-Bajpay/ML-CaPsule)"
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "jobs": [
+      {
+        "company": "Tata Consultancy Services",
+        "role": "Graduate Trainee",
+        "date": "May 2025 - Present",
+        "responsibilities": [
+          "Selected as a Graduate Trainee at TCS under Grade YG. Structured training through TCS Initial Learning Program (ILP), followed by live project deployment across technology domains."
+        ]
+      },
+      {
+        "company": "Excelerate",
+        "role": "AI-Powered Data Insights Intern",
+        "date": "Feb 2025 - Mar 2025",
+        "responsibilities": [
+          "Worked on AI-powered data insights, contributing to data-driven decision-making."
+        ]
+      },
+      {
+        "company": "Aspire Institute (Harvard-Aspire Fellowship)",
+        "role": "Fellow",
+        "date": "Dec 2024 - Mar 2025",
+        "responsibilities": [
+          "Leadership and professional development, global collaboration, community engagement, digital transformation and AI projects."
+        ]
+      },
+      {
+        "company": "Edunet Foundation",
+        "role": "AI Transformative Learning Intern, Cyber Security Intern, AI & Green Skills Analyst Intern",
+        "date": "Dec 2024 - Feb 2025",
+        "responsibilities": [
+          "Developed ML models for disease and plant detection, managed projects, collaborated with mentors, and earned certifications in AI and Cyber Security."
+        ]
+      },
+      {
+        "company": "upSkill Campus",
+        "role": "Data Science Intern",
+        "date": "Dec 2024 - Feb 2025",
+        "responsibilities": [
+          "Worked on data science projects, data preprocessing, model development, and project management."
+        ]
+      },
+      {
+        "company": "EXTION INFOTECH",
+        "role": "Data Science Intern",
+        "date": "Oct 2024 - Nov 2024",
+        "responsibilities": [
+          "Worked on quantum-enhanced federated learning and meta-learning projects, data preprocessing, model development, and documentation."
+        ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "categories": [
+      {
+        "name": "Technical",
+        "items": [
+          "Programming (Python, C++, JavaScript, R)",
+          "Cloud & DevOps (Azure, GitHub Actions, CI/CD)",
+          "Data Science & Analytics (Pandas, NumPy, Power BI, SQL)",
+          "Machine Learning & AI (scikit-learn, ML/DL, AI/ML)",
+          "Web Development (React)",
+          "Database Technologies (MySQL, SQL, Big Data)",
+          "System Design & Technical Presentations"
+        ]
+      },
+      {
+        "name": "Relational & Developer Skills",
+        "items": [
+          "Developer Relations",
+          "Program Management",
+          "Developer Engagement",
+          "Developer Advocacy",
+          "User Research and Feedback",
+          "Community Building"
+        ]
+      },
+      {
+        "name": "Certifications",
+        "items": [
+          { "name": "GitHub Foundations", "url": "https://www.credly.com/badges/e7915c25-c39f-457f-a8e6-8c5ffcadccbd/linked_in_profile" },
+          { "name": "Certified Data Scientist Associate", "url": "https://www.datacamp.com/certificate/DSA0015367760138" },
+          { "name": "SQL Associate (DataCamp)", "url": "https://www.datacamp.com/certificate/SQA0010188188874" },
+          { "name": "Data Analysis with Python (freeCodeCamp)", "url": "https://freecodecamp.org/certification/fccd71636cc-dbe3-4335-9961-3e7b788e3d7c/data-analysis-with-python-v7" }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "show_social_links": true,
+    "show_built_with": true,
+    "built_with_text": "Built with \u2764\ufe0f using vanilla JavaScript",
+    "tagline": "Let's connect and build something amazing together!"
+  }
+}
