@@ -52,7 +52,7 @@ ${config.footer.tagline}
 
 ---
 
-*Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*`;
+*Based on [portfolio template](https://github.com/Harsh-Bajpay/Harsh-Bajpay-Portfolio) originally created by [Harsh Bajpay](https://github.com/Harsh-Bajpay)*`;
 
   return readme;
 }
