@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yashraj Nayak - Developer Portfolio
 
 [![image](https://github.com/user-attachments/assets/e63696e2-0660-457b-8691-584a47365fd8)](https://yashrajnayak.github.io/)
@@ -44,3 +45,6 @@ Let's connect and build something amazing together!
 ---
 
 *Based on [portfolio template](https://github.com/yashrajnayak/developer-portfolio) originally created by [Yashraj Nayak](https://github.com/yashrajnayak)*
+=======
+# Harsh-Bajpay.github.io
+>>>>>>> 7bc89fd4cd4c7e4a6562705ca85df44ed4c4981a
